@@ -1,0 +1,76 @@
+body{
+
+font-family: Roboto, sans-serif;
+font-size: 18px;
+background-color: #FFF;
+margin:0;
+padding:0;
+font-weight: 400px;
+
+
+}
+.outer{
+  text-align: center;
+}
+
+.page{
+margin-top: 20px;
+background-color: #FFF;
+width: 1200px;
+display: inline-block;
+
+}
+.topofpage{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: left;
+  justify-content: flex;
+  height: 250px;
+
+
+}
+.logo {
+  max-width: 200px
+
+}
+.logo_img {
+  width: 50%;
+  margin-top: 10PX;
+}
+.MENU {
+  background-color: #00704A;
+  background-color: #00704A;
+  font-family: sans-serif;
+  font-size: 18px;
+  height: 40px
+
+
+
+
+}
+.ABOUT {
+  margin-left: auto;
+  background-color: #036635 ;
+  font-family: sans-serif;
+  font-size: 18px;
+  height: 40px
+
+
+
+
+
+}
+
+.search {
+  max-width: 50px
+  background-color: #036635 ;
+    background-color: #00704A;
+
+
+
+  font-family: sans-serif;
+  font-size: 18px;
+  height: 40px
+
+}
