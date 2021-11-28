@@ -1,0 +1,78 @@
+body{
+  font-family:Roboto;san-serif;
+  font-size: 28px;
+  background-color:white;
+  margin: o;
+  padding: 0;
+}
+.outer {
+  text-align: center;
+
+}
+  .topofpage {
+    display: flex;
+flex-direction: column-reverse;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+
+}
+.page {
+  background-color: white
+  max
+  display: inline-flex;
+  align-items: left;
+
+}
+
+
+
+.navbar{
+
+  flex-grow:2;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  text-align: left;
+
+
+}
+.logo {
+  max-width: 100px
+
+}
+.logo_img{
+  margin-top: 5px;
+  width: 40%
+
+
+}
+.search {
+  max-width: 50px
+
+
+
+}
+
+
+.search_img {
+  width: 50%;
+  margin-left: 15px;
+}
+
+a{
+color: black;
+text-decoration: none;
+font-weight: 900;
+margin-right: 20px;
+
+}
+a:hover {
+  color: red
+}
+a:visited {
+  color: green
+}
+
+.content
+background-color: gray;
+text-align:left; 
