@@ -1,0 +1,64 @@
+body{
+	margin:0;
+	padding:0;
+  background-color: #000;
+
+}
+
+
+
+.outer{
+  text-align: center;
+}
+
+.page{
+	position:relative;
+	margin-top:0px;
+	background-color: #FFF;
+  max-width:1200px;
+  width:100%;
+  height:100%;
+  display: inline-block;
+  text-align: left;
+  height:99vh;
+	opacity: .6;
+}
+
+
+.navbar{
+	position: sticky;
+	top:0;
+width: 100%;
+height: 100px;
+background-color: gray;
+z-index: 100;
+opacity: .8;
+
+
+}
+.tile{
+	background-repeat:no-repeat;
+	background-size: cover;
+	width: 100%
+	height:400px
+
+
+}
+.tilebg1{
+background-image: url("img/tree.jpg");
+
+
+
+}
+.tilebg2{
+background-image: url("img/wave.jpg");
+
+
+
+}
+.tilebg3{
+background-image: url("img/flowers.jpg");
+
+
+
+}
